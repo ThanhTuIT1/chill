@@ -1,0 +1,17 @@
+pre {
+  color: palegoldenrod;
+  font-size: 19px;
+  user-select: none;
+}
+h1 {
+  color: blue;
+  user-select: none;
+}
+body {
+  background-image: url(./nen/nen2.jpg);
+  user-select: none;
+}
+h2 {
+  color: greenyellow;
+  user-select: none;
+}
